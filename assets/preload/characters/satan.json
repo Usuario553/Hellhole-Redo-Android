@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "satan IDLE"
+		},
+		{
+			"offsets": [
+				34,
+				-196
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "satan DOWN"
+		},
+		{
+			"offsets": [
+				558,
+				21
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "satan LEFT"
+		},
+		{
+			"offsets": [
+				502,
+				77
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singUP",
+			"indices": [],
+			"name": "satan UP"
+		},
+		{
+			"offsets": [
+				604,
+				3
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "satan RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satan/SATAN HELLHOLE POSES",
+	"position": [
+		80,
+		-330
+	],
+	"healthicon": "satan-NEW",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		51,
+		51
+	],
+	"camera_position": [
+		-830,
+		-460
+	],
+	"sing_duration": 3.80000000000001,
+	"scale": 4.65
+}

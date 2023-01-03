@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				-6
+			],
+			"anim": "singLEFT",
+			"fps": 18,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-185,
+				-128
+			],
+			"anim": "singDOWN",
+			"fps": 17,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				196
+			],
+			"anim": "singUP",
+			"fps": 17,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				-7
+			],
+			"anim": "singRIGHT",
+			"fps": 17,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 19,
+			"name": "idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mickey/INFERNO MAUS",
+	"position": [
+		90,
+		150
+	],
+	"healthicon": "inferno-maus",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		67,
+		67
+	],
+	"camera_position": [
+		-20,
+		-60
+	],
+	"sing_duration": 5.7,
+	"scale": 2.1
+}

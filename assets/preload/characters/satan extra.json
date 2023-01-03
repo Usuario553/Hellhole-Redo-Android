@@ -1,0 +1,84 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-16,
+				-12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [
+				0,
+				0
+			],
+			"name": "satan baibai"
+		},
+		{
+			"offsets": [
+				3084,
+				-972
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [
+				0,
+				1
+			],
+			"name": "satan hello there"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-17,
+				-14
+			],
+			"anim": "appear",
+			"fps": 13,
+			"name": "satan hello there",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-85,
+				-23
+			],
+			"anim": "laugh",
+			"fps": 8,
+			"name": "satan hehehaha",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-46,
+				19
+			],
+			"anim": "disappear",
+			"fps": 8,
+			"name": "satan baibai",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/satan/SATAN HELLHOLE EXTRA",
+	"position": [
+		-40,
+		-270
+	],
+	"healthicon": "satan-NEW",
+	"flip_x": false,
+	"healthbar_colors": [
+		67,
+		51,
+		51
+	],
+	"camera_position": [
+		-630,
+		-600
+	],
+	"sing_duration": 3.80000000000001,
+	"scale": 4.95
+}

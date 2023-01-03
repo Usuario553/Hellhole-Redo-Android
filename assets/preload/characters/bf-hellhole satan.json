@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				24,
+				16
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				-29
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-18,
+				29
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-41,
+				3
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				11,
+				15
+			],
+			"anim": "hey",
+			"fps": 14,
+			"name": "yeah",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf/retrofriend SATAN",
+	"position": [
+		50,
+		460
+	],
+	"healthicon": "retrofriend-satan",
+	"flip_x": true,
+	"healthbar_colors": [
+		136,
+		135,
+		136
+	],
+	"camera_position": [
+		140,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 2.3
+}
