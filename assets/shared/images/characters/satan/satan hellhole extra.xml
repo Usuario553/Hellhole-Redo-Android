@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SATAN HELLHOLE EXTRAS.png">
+<SubTexture name="satan hehehaha0000" x="1501" y="1034" width="318" height="341" frameX="-7" frameY="-51" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0001" x="1501" y="349" width="318" height="343" frameX="-7" frameY="-48" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0002" x="960" y="1128" width="320" height="349" frameX="-6" frameY="-42" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0003" x="320" y="1128" width="320" height="350" frameX="-5" frameY="-41" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0004" x="640" y="1128" width="320" height="350" frameX="-5" frameY="-41" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0005" x="1501" y="0" width="319" height="349" frameX="-6" frameY="-42" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0006" x="0" y="1128" width="320" height="353" frameX="-5" frameY="-38" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0007" x="280" y="0" width="314" height="379" frameX="-9" frameY="-10" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0008" x="594" y="0" width="314" height="379" frameX="-8" frameY="-9" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0009" x="0" y="756" width="314" height="372" frameX="-8" frameY="-17" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0010" x="314" y="756" width="314" height="372" frameX="-8" frameY="-18" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0011" x="628" y="756" width="314" height="368" frameX="-9" frameY="-23" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hehehaha0012" x="1187" y="0" width="314" height="367" frameX="-9" frameY="-23" frameWidth="331" frameHeight="394" />
+<SubTexture name="satan hello there0000" x="1187" y="927" width="276" height="153" frameX="-41" frameY="-245" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0001" x="1187" y="728" width="296" height="199" frameX="-32" frameY="-200" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0002" x="0" y="0" width="280" height="380" frameX="-38" frameY="1" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0003" x="559" y="380" width="279" height="376" frameX="-39" frameY="-7" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0004" x="908" y="0" width="279" height="376" frameX="-39" frameY="-13" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0005" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0006" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0007" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0008" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0009" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0010" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0011" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0012" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0013" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0014" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0015" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0016" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0017" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0018" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0019" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan hello there0020" x="1187" y="367" width="310" height="361" frameX="-24" frameY="-30" frameWidth="354" frameHeight="394" />
+<SubTexture name="satan baibai0000" x="1501" y="692" width="319" height="342" frameX="-25" frameY="-39" frameWidth="361" frameHeight="495" />
+<SubTexture name="satan baibai0001" x="0" y="380" width="279" height="376" frameX="-43" frameY="0" frameWidth="361" frameHeight="495" />
+<SubTexture name="satan baibai0002" x="279" y="380" width="280" height="376" frameX="-46" frameY="-66" frameWidth="361" frameHeight="495" />
+</TextureAtlas>

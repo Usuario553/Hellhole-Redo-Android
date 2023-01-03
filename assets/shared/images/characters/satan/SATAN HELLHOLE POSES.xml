@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="SATAN HELLHOLE POSES.png">
+<SubTexture name="satan DOWN0000" x="0" y="1755" width="365" height="358" frameX="-12" frameY="-15" frameWidth="387" frameHeight="374" />
+<SubTexture name="satan DOWN0001" x="1670" y="1329" width="369" height="367" frameX="-9" frameY="-7" frameWidth="387" frameHeight="374" />
+<SubTexture name="satan DOWN0002" x="1302" y="1329" width="368" height="369" frameX="-9" frameY="-4" frameWidth="387" frameHeight="374" />
+<SubTexture name="satan IDLE0000" x="1159" y="891" width="359" height="387" frameX="-8" frameY="-23" frameWidth="374" frameHeight="414" />
+<SubTexture name="satan IDLE0001" x="589" y="1329" width="357" height="387" frameX="-9" frameY="-24" frameWidth="374" frameHeight="414" />
+<SubTexture name="satan IDLE0002" x="946" y="1329" width="356" height="387" frameX="-9" frameY="-22" frameWidth="374" frameHeight="414" />
+<SubTexture name="satan IDLE0003" x="509" y="447" width="353" height="395" frameX="-10" frameY="-17" frameWidth="374" frameHeight="414" />
+<SubTexture name="satan IDLE0004" x="1559" y="834" width="350" height="402" frameX="-11" frameY="-9" frameWidth="374" frameHeight="414" />
+<SubTexture name="satan IDLE0005" x="1559" y="430" width="350" height="404" frameX="-11" frameY="-7" frameWidth="374" frameHeight="414" />
+<SubTexture name="satan LEFT0000" x="0" y="0" width="488" height="447" frameX="-9" frameY="-11" frameWidth="520" frameHeight="461" />
+<SubTexture name="satan LEFT0001" x="488" y="0" width="503" height="445" frameX="-10" frameY="-16" frameWidth="520" frameHeight="461" />
+<SubTexture name="satan LEFT0002" x="0" y="447" width="509" height="444" frameX="-11" frameY="-18" frameWidth="520" frameHeight="461" />
+<SubTexture name="satan RIGHT0000" x="991" y="442" width="567" height="437" frameX="-8" frameY="-14" frameWidth="597" frameHeight="451" />
+<SubTexture name="satan RIGHT0001" x="0" y="891" width="577" height="438" frameX="-6" frameY="-13" frameWidth="597" frameHeight="451" />
+<SubTexture name="satan RIGHT0002" x="577" y="891" width="582" height="438" frameX="-6" frameY="-13" frameWidth="597" frameHeight="451" />
+<SubTexture name="satan UP0000" x="991" y="0" width="568" height="442" frameX="-12" frameY="0" frameWidth="590" frameHeight="442" />
+<SubTexture name="satan UP0001" x="1559" y="0" width="586" height="430" frameX="-3" frameY="-9" frameWidth="590" frameHeight="442" />
+<SubTexture name="satan UP0002" x="0" y="1329" width="589" height="426" frameX="-1" frameY="-12" frameWidth="590" frameHeight="442" />
+</TextureAtlas>
