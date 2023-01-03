@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="old thighs.png"><SubTexture name="old idle0000" x="994" y="0" width="497" height="579" frameX="0" frameY="-20" frameWidth="497" frameHeight="599" />
+<SubTexture name="old idle0001" x="994" y="0" width="497" height="579" frameX="0" frameY="-20" frameWidth="497" frameHeight="599" />
+<SubTexture name="old idle0002" x="497" y="1169" width="497" height="543" frameX="0" frameY="-56" frameWidth="497" frameHeight="599" />
+<SubTexture name="old idle0003" x="497" y="1169" width="497" height="543" frameX="0" frameY="-56" frameWidth="497" frameHeight="599" />
+<SubTexture name="old idle0004" x="994" y="599" width="497" height="550" frameX="0" frameY="-49" frameWidth="497" frameHeight="599" />
+<SubTexture name="old idle0005" x="994" y="599" width="497" height="550" frameX="0" frameY="-49" frameWidth="497" frameHeight="599" />
+<SubTexture name="old idle0006" x="0" y="599" width="497" height="570" frameX="0" frameY="-29" frameWidth="497" frameHeight="599" />
+<SubTexture name="old idle0007" x="0" y="599" width="497" height="570" frameX="0" frameY="-29" frameWidth="497" frameHeight="599" />
+<SubTexture name="old down0000" x="1491" y="1169" width="497" height="474" frameX="0" frameY="-125" frameWidth="497" frameHeight="599" />
+<SubTexture name="old down0001" x="1491" y="1169" width="497" height="474" frameX="0" frameY="-125" frameWidth="497" frameHeight="599" />
+<SubTexture name="old down0002" x="994" y="1169" width="497" height="477" frameX="0" frameY="-122" frameWidth="497" frameHeight="599" />
+<SubTexture name="old down0003" x="994" y="1169" width="497" height="477" frameX="0" frameY="-122" frameWidth="497" frameHeight="599" />
+<SubTexture name="old left0000" x="0" y="1169" width="497" height="544" frameX="0" frameY="-55" frameWidth="497" frameHeight="599" />
+<SubTexture name="old left0001" x="0" y="1169" width="497" height="544" frameX="0" frameY="-55" frameWidth="497" frameHeight="599" />
+<SubTexture name="old left0002" x="1491" y="0" width="497" height="549" frameX="0" frameY="-50" frameWidth="497" frameHeight="599" />
+<SubTexture name="old left0003" x="1491" y="0" width="497" height="549" frameX="0" frameY="-50" frameWidth="497" frameHeight="599" />
+<SubTexture name="old right0000" x="497" y="599" width="497" height="551" frameX="0" frameY="-48" frameWidth="497" frameHeight="599" />
+<SubTexture name="old right0001" x="497" y="599" width="497" height="551" frameX="0" frameY="-48" frameWidth="497" frameHeight="599" />
+<SubTexture name="old right0002" x="1491" y="549" width="497" height="549" frameX="0" frameY="-50" frameWidth="497" frameHeight="599" />
+<SubTexture name="old right0003" x="1491" y="549" width="497" height="549" frameX="0" frameY="-50" frameWidth="497" frameHeight="599" />
+<SubTexture name="old up0000" x="497" y="0" width="497" height="597" frameX="0" frameY="-2" frameWidth="497" frameHeight="599" />
+<SubTexture name="old up0001" x="497" y="0" width="497" height="597" frameX="0" frameY="-2" frameWidth="497" frameHeight="599" />
+<SubTexture name="old up0002" x="0" y="0" width="497" height="599" frameX="0" frameY="0" frameWidth="497" frameHeight="599" />
+<SubTexture name="old up0003" x="0" y="0" width="497" height="599" frameX="0" frameY="0" frameWidth="497" frameHeight="599" />
+</TextureAtlas>
