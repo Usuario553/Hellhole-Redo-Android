@@ -1,0 +1,6191 @@
+{
+	"song": {
+		"events": [
+			[
+				0,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0"
+					]
+				]
+			],
+			[
+				28800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					],
+					[
+						"Camera Follow Pos",
+						"400",
+						"300"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				28818.75,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				28912.5,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				28931.25,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29100,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29118.75,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29200,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29212.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29275,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29287.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29375,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29387.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29475,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29487.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29550,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29562.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29625,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29637.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29700,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29712.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29750,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29762.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29800,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29812.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29850,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29862.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29900,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29912.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				29950,
+				[
+					[
+						"Play Animation",
+						"singUP",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"singUP",
+						"dad"
+					]
+				]
+			],
+			[
+				29962.5,
+				[
+					[
+						"Play Animation",
+						"singUPmiss",
+						"BF"
+					],
+					[
+						"Play Animation",
+						"hey",
+						"dad"
+					]
+				]
+			],
+			[
+				30000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"inferno mouse"
+					],
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0"
+					]
+				]
+			],
+			[
+				39600,
+				[
+					[
+						"Change Scroll Speed",
+						"0.5",
+						"0.5"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				40800,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0.6"
+					]
+				]
+			],
+			[
+				49200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.6"
+					]
+				]
+			],
+			[
+				58800,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.2"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				69600,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.3"
+					]
+				]
+			],
+			[
+				70200,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.3"
+					]
+				]
+			],
+			[
+				72600,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				74400,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.3"
+					]
+				]
+			],
+			[
+				75000,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				76800,
+				[
+					[
+						"Change Scroll Speed",
+						"1.2",
+						"0.3"
+					]
+				]
+			],
+			[
+				77400,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.3"
+					]
+				]
+			],
+			[
+				78000,
+				[
+					[
+						"Change Scroll Speed",
+						"0.5",
+						"0.5"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				79200,
+				[
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0.6"
+					]
+				]
+			],
+			[
+				87600,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				90000,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				92400,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				94800,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				97200,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				99600,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"-350"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				100200,
+				[
+					[
+						"Change Character",
+						"gf",
+						"satan extra"
+					]
+				]
+			],
+			[
+				100200.78125,
+				[
+					[
+						"Play Animation",
+						"appear",
+						"gf"
+					]
+				]
+			],
+			[
+				100800,
+				[
+					[
+						"Change Character",
+						"gf",
+						"satan"
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-hellhole satan"
+					],
+					[
+						"Change Character",
+						"dad",
+						"puppet mouse"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				101400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				102000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				102600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				103200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				103800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				104400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				104700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				104850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				105000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				105600,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				106200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				106800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				107400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				108600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				109500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				109650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				109800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				110400,
+				[
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				110700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				111000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				111300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				111600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				111900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				112200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				112500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				112800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				113100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				113400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				113700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				114000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				114300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				114600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				114900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				115500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				115800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				116100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				116400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				116700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				117000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				117300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				117600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				117900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				118200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				118800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				119100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				119400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				119700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				120300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				120600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				120900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				121200,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				121500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				121800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				122100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				122400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				123000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				123600,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				124200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				124800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				125100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				125400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				125700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				126000,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				126300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				126600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				126900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				127200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				127275,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127350,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127425,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127575,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127725,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127875,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				127950,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				128025,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				128100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				128175,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				128250,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				128325,
+				[
+					[
+						"Add Camera Zoom",
+						"0.01",
+						"0.01"
+					]
+				]
+			],
+			[
+				128400,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				128700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				129000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				129300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				129600,
+				[
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				129900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				130350,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				130500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				130800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				131100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				131400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				131700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"satan extra"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				132000.46875,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"gf"
+					]
+				]
+			],
+			[
+				132300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				132600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				132900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				133200,
+				[
+					[
+						"Change Character",
+						"gf",
+						"satan"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					]
+				]
+			],
+			[
+				133500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				133800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				134100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				134400,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				134700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				135000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				135300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				135600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				135900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				136200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				136500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				136800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				137100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				137400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				137700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.1",
+						"0.05"
+					]
+				]
+			],
+			[
+				138000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				138300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				138600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				138900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				139200,
+				[
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				139500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				139800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.02"
+					]
+				]
+			],
+			[
+				139950,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.02"
+					]
+				]
+			],
+			[
+				140100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				140400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				140700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				141000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.02"
+					]
+				]
+			],
+			[
+				141150,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.02"
+					]
+				]
+			],
+			[
+				141300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				141600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				141900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				142200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.02"
+					]
+				]
+			],
+			[
+				142350,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.02"
+					]
+				]
+			],
+			[
+				142500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				142650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.02",
+						"0.02"
+					]
+				]
+			],
+			[
+				142800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				143100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				143400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				143700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				144300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				144600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				144900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				145200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				145500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				145800,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				146100,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				146400,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				146700,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				147000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				147300,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				147600,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				147900,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				148200,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				148500,
+				[
+					[
+						"Add Camera Zoom",
+						"0.05",
+						"0.05"
+					]
+				]
+			],
+			[
+				148800,
+				[
+					[
+						"Camera Follow Pos",
+						"800",
+						"300"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				149250,
+				[
+					[
+						"Change Character",
+						"gf",
+						"satan extra"
+					]
+				]
+			],
+			[
+				149250.859375,
+				[
+					[
+						"Play Animation",
+						"disappear",
+						"gf"
+					]
+				]
+			],
+			[
+				150000,
+				[
+					[
+						"Change Character",
+						"gf",
+						"nobody"
+					],
+					[
+						"Change Character",
+						"dad",
+						"hellhole happy mouse"
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-hellhole sob"
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"0.7",
+						"0"
+					],
+					[
+						"Better Cinematics",
+						"1",
+						"120"
+					]
+				]
+			],
+			[
+				159600,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				162000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				166800,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				169200,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				178800,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				188400,
+				[
+					[
+						"Zoom Camera",
+						"1.2",
+						""
+					],
+					[
+						"Better Cinematics",
+						"1",
+						"90"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Flash Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				198000,
+				[
+					[
+						"Better Cinematics",
+						"1",
+						"120"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				206400,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-hellhole"
+					]
+				]
+			],
+			[
+				217200,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					],
+					[
+						"Better Cinematics",
+						"1",
+						"80"
+					]
+				]
+			],
+			[
+				222000,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.5",
+						""
+					]
+				]
+			],
+			[
+				225600,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Change Character",
+						"bf",
+						"bf-hellhole sob"
+					]
+				]
+			],
+			[
+				226800,
+				[
+					[
+						"Zoom Camera",
+						"1",
+						""
+					],
+					[
+						"Better Cinematics",
+						"0.5",
+						"0"
+					]
+				]
+			],
+			[
+				228000,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Scroll Speed",
+						"1.4",
+						"0"
+					],
+					[
+						"Change Character",
+						"dad",
+						"inferno mouse"
+					],
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					],
+					[
+						"Screen Shake",
+						"1.3, 0.01",
+						"1.3, 0.005"
+					]
+				]
+			],
+			[
+				228300,
+				[
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				228600,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				228900,
+				[
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				229200,
+				[
+					[
+						"Screen Shake",
+						"1.3, 0.01",
+						"1.3, 0.005"
+					],
+					[
+						"Zoom Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				230400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Change Scroll Speed",
+						"0.8",
+						"0.4"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				230700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				231000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				231300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				231600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.6"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				231900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				232200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				232500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				232800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				233100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				233400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				233700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				234000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					],
+					[
+						"Zoom Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				234300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					]
+				]
+			],
+			[
+				234600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					]
+				]
+			],
+			[
+				234750,
+				[
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				234900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					]
+				]
+			],
+			[
+				235200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				235350,
+				[
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				235500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				235800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				236100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				236400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				236700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				237000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				237300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				237600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				237900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				238200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				238500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				238800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				239100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				239400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				239700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				240000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				240300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				240600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				240900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				241200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				241500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				241800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				242100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				242400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				242700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				243000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				243300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				243600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					],
+					[
+						"Zoom Camera",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				243900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					]
+				]
+			],
+			[
+				244200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					]
+				]
+			],
+			[
+				244500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.025",
+						"0.015"
+					]
+				]
+			],
+			[
+				244800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"1.4",
+						""
+					]
+				]
+			],
+			[
+				245100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				245400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				245700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				246000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				246300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				246600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				246900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				247200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				247500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				247800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				248100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				248400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				248700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				249000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				249300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				249600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				249900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				250200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				250500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				250800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				251100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				251400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				251700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				252000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				252300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				252600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				252900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				253200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				253500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				253800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				254100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				254400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				254700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				255000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				255300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				255600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				255900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				256200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				256500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				256800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				257100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				257400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				257700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				258000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				258300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				258600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				258900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				259200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				259500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				259800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				260100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				260400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				260700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				261000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				261300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				261600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				261900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				262200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				262500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				262800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				263100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				263400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				263700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				264000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				264300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				264600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				264900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				265200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				265500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				265800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				266100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				266400,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				267600,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				268200,
+				[
+					[
+						"Zoom Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				268800,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				270000,
+				[
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					]
+				]
+			],
+			[
+				270600,
+				[
+					[
+						"Zoom Camera",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				270900,
+				[
+					[
+						"Zoom Camera",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				271200,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				272400,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				273000,
+				[
+					[
+						"Zoom Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				273600,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				274800,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				275400,
+				[
+					[
+						"Zoom Camera",
+						"1.2",
+						""
+					]
+				]
+			],
+			[
+				276000,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				278400,
+				[
+					[
+						"Zoom Camera",
+						"0.9",
+						""
+					]
+				]
+			],
+			[
+				279600,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				280200,
+				[
+					[
+						"Zoom Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				280800,
+				[
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					]
+				]
+			],
+			[
+				282600,
+				[
+					[
+						"Zoom Camera",
+						"0.4",
+						""
+					]
+				]
+			],
+			[
+				283200,
+				[
+					[
+						"Camera Follow Pos",
+						"400",
+						"-350"
+					],
+					[
+						"Zoom Camera",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				283800,
+				[
+					[
+						"Change Character",
+						"gf",
+						"satan extra"
+					]
+				]
+			],
+			[
+				283800.78125,
+				[
+					[
+						"Play Animation",
+						"appear",
+						"gf"
+					]
+				]
+			],
+			[
+				284400,
+				[
+					[
+						"Play Animation",
+						"laugh",
+						"gf"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"400",
+						"50"
+					]
+				]
+			],
+			[
+				285000,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-hellhole satan"
+					]
+				]
+			],
+			[
+				285600,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Change Character",
+						"gf",
+						"satan"
+					],
+					[
+						"Change Character",
+						"dad",
+						"puppet mouse"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					],
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Hide HealthBar",
+						"",
+						""
+					]
+				]
+			],
+			[
+				285900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				286200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				286500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				286800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				287100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				287400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				287700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				288000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				288300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				288600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				288900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				289200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				289500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				289800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				290100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				290400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				290700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				291000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				291300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				291600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				291900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				292200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				292500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				292800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				293100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				293400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				293700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				294000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				294300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				294600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				294900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				295200,
+				[
+					[
+						"Change Character",
+						"bf",
+						"bf-hellhole sob"
+					],
+					[
+						"Camera Follow Pos",
+						"400",
+						"400"
+					],
+					[
+						"Zoom Camera",
+						"0.6",
+						""
+					],
+					[
+						"Change Character",
+						"dad",
+						"inferno mouse"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					]
+				]
+			],
+			[
+				295500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				295800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				296100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				296400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					],
+					[
+						"Zoom Camera",
+						"0.7",
+						""
+					],
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				296475,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				296550,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				296625,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				296700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				296775,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				296850,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				296925,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				297000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				297300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				297600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				297900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				298200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				298500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				298800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				299100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				299400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				299700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				300000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				300300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				300600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				300900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				301200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				301275,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				301350,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				301425,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				301500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				301575,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				301650,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				301725,
+				[
+					[
+						"Add Camera Zoom",
+						"0.03",
+						"0.03"
+					]
+				]
+			],
+			[
+				301800,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				302100,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				302400,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				302700,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				303000,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				303300,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				303600,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				303900,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				304200,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				304500,
+				[
+					[
+						"Screen Shake",
+						"0.1, 0.01",
+						"0.1, 0.005"
+					],
+					[
+						"Add Camera Zoom",
+						"0.020",
+						"0.01"
+					]
+				]
+			],
+			[
+				304800,
+				[
+					[
+						"Flash Camera",
+						"1",
+						""
+					],
+					[
+						"Add Camera Zoom",
+						"1",
+						"1"
+					],
+					[
+						"Camera Follow Pos",
+						"400",
+						"50"
+					],
+					[
+						"Zoom Camera",
+						"0.35",
+						""
+					],
+					[
+						"Hide HealthBar",
+						"Normal",
+						""
+					]
+				]
+			],
+			[
+				324000,
+				[
+					[
+						"Alter Visibility",
+						"darkness",
+						"true"
+					]
+				]
+			]
+		]
+	}
+}
