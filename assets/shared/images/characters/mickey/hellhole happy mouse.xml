@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="hellhole happy mouse.png">
+<SubTexture name="down0000" x="1377" y="415" width="278" height="363" frameX="-4" frameY="-6" frameWidth="286" frameHeight="371" />
+<SubTexture name="down0001" x="1657" y="782" width="271" height="367" frameX="-8" frameY="-3" frameWidth="286" frameHeight="371" />
+<SubTexture name="down0002" x="1657" y="414" width="268" height="368" frameX="-10" frameY="-2" frameWidth="286" frameHeight="371" />
+<SubTexture name="left0000" x="532" y="467" width="275" height="422" frameX="-9" frameY="-10" frameWidth="290" frameHeight="434" />
+<SubTexture name="left0001" x="807" y="467" width="273" height="421" frameX="-11" frameY="-10" frameWidth="290" frameHeight="434" />
+<SubTexture name="left0002" x="1107" y="0" width="270" height="420" frameX="-14" frameY="-11" frameWidth="290" frameHeight="434" />
+<SubTexture name="right0000" x="1657" y="0" width="327" height="414" frameX="-11" frameY="-7" frameWidth="343" frameHeight="424" />
+<SubTexture name="right0001" x="875" y="897" width="316" height="415" frameX="-15" frameY="-6" frameWidth="343" frameHeight="424" />
+<SubTexture name="right0002" x="560" y="897" width="315" height="416" frameX="-15" frameY="-4" frameWidth="343" frameHeight="424" />
+<SubTexture name="up0000" x="281" y="0" width="278" height="446" frameX="-6" frameY="-4" frameWidth="297" frameHeight="452" />
+<SubTexture name="up0001" x="559" y="0" width="275" height="439" frameX="-9" frameY="-12" frameWidth="297" frameHeight="452" />
+<SubTexture name="up0002" x="834" y="0" width="273" height="439" frameX="-10" frameY="-12" frameWidth="297" frameHeight="452" />
+<SubTexture name="idle0000" x="282" y="897" width="278" height="419" frameX="-5" frameY="-19" frameWidth="289" frameHeight="439" />
+<SubTexture name="idle0001" x="1377" y="0" width="280" height="415" frameX="-4" frameY="-22" frameWidth="289" frameHeight="439" />
+<SubTexture name="idle0002" x="0" y="897" width="282" height="420" frameX="0" frameY="-17" frameWidth="289" frameHeight="439" />
+<SubTexture name="idle0003" x="261" y="467" width="271" height="426" frameX="-7" frameY="-11" frameWidth="289" frameHeight="439" />
+<SubTexture name="idle0004" x="0" y="467" width="261" height="430" frameX="-15" frameY="-7" frameWidth="289" frameHeight="439" />
+<SubTexture name="pain0000" x="0" y="0" width="281" height="467" frameX="0" frameY="0" frameWidth="281" frameHeight="467" />
+</TextureAtlas>
